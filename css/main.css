@@ -4,7 +4,8 @@
 body {
   color: #333333;   
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #c4dce1;                      /*change your Bkg color*/
+  background-image: url("../img/wallwuzz.jpg");  
+  <img >                    /*change your Bkg color*/
 }
 
 a, a:active, a:visited {
@@ -33,7 +34,7 @@ footer p {
 header {
   background: #C8C1B7;
   border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/wallwuzz.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
@@ -78,7 +79,7 @@ header nav a, header nav a:visited {
   display: block;
   line-height: 60px;
   text-decoration: none;
-  color: #000000;                         /*changes banner text color*/
+  color: #FF0066;                         /*changes banner text color*/
   transition: color 200ms ease-in-out;
 }
 
@@ -88,7 +89,7 @@ header nav a, header nav a:visited {
 }
 
 .gallery li {
-  background-color: #333333;
+  background-color: #99FFFF;
   border: 1px solid #999999;
   border-radius: 2px;
   float: left;

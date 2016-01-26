@@ -1,6 +1,6 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
+  background-color: #FFFF99; /* change background color */
   text-align: center;
   color: #000;  /* change font color */
   line-height: 36px;
@@ -29,7 +29,7 @@ h1 {
 }
 
 #container {
-  background-image: url("../img/cement.jpg"); /* change background */
+  background-image: url("../img/wallwuzz.jpg"); /* change background */
   min-height: 100%;
   max-width: 960px;
   margin: 0 auto;
